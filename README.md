@@ -1,16 +1,13 @@
-## Hi there 👋
+Alinear="center" "Hola, soy Yeferson"/h1
+Apasionado desarrollador de frontend de Colombia.
 
-<!--
-**Yeferson669/Yeferson669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Cómo llegar a mí **Yefersonguaca5.gmail.com**
 
-Here are some ideas to get you started:
+"h3 align="left"Conéctate conmigo: *h3"
+P. alineación="izá-Lénquicalo".
+.a href="https://instagram.com/yeff-669" target="blank"--img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.sv" alt="yeff-669" height="30"" width="40" /-/a-
+- *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eh3 align="left".Idiomas y herramientas:
+P. alineación="izá-Lénquicalo". A href="https://www.w3schools.com/cpp/" target="-blank" rel=noreferrer". .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/o" - Ah, sí. - *
+
