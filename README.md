@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Bienvenido ✨</h1>
 
 <div align="center">
@@ -14,17 +13,14 @@
 
 <details>
   <summary align="center">
-    <!-- Badge como botón -->
+    <!-- Badge como botón para abrir la caja -->
     <img src="https://img.shields.io/badge/-Abrir%20Caja%20Misteriosa-%236a0dad?style=for-the-badge&logo=ghost&logoColor=white" alt="Abrir Caja"/>
   </summary>
   <br>
 
   <div align="center">
 
-  <!-- Imagen de la caja misteriosa -->
-  <img src="https://i.imgur.com/3bXK0cE.png" width="200" alt="Caja Misteriosa" style="margin-bottom: 20px;"/>
-
-  <!-- Información que aparece al abrir la caja -->
+  <!-- Foto de perfil -->
   <img src="https://github.com/Yeferson669.png" width="140" style="border-radius:50%; border: 4px solid #6a0dad;" alt="Foto de perfil"/>
 
   ### ✨ @Yeferson669 ✨  
